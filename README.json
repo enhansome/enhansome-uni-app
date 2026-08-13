@@ -1,0 +1,273 @@
+{
+  "items": [
+    {
+      "description": "使用右上角的“目录”菜单来浏览列表。",
+      "items": [],
+      "title": "目录"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "create-uni",
+          "description": "🛠️ 快速创建 uni-app 项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T03:10:34Z",
+            "owner": "uni-helper",
+            "repo": "create-uni",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unh",
+          "description": "二次封装的启动命令，可以自定义hooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T13:52:05Z",
+            "owner": "uni-helper",
+            "repo": "unh",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Cli"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "weapp-tailwindcss",
+          "description": "面向小程序生态的 Tailwind CSS 适配方案。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:18:39Z",
+            "owner": "sonofmagic",
+            "repo": "weapp-tailwindcss",
+            "stars": 1843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unocss-applet",
+          "description": "在小程序中使用 UnoCSS，兼容不支持的语法。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-09T01:21:37Z",
+            "owner": "unocss-applet",
+            "repo": "unocss-applet",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uni-use",
+          "description": "uni-app 组合式工具集。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-18T13:54:19Z",
+            "owner": "uni-helper",
+            "repo": "uni-use",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unocss-preset-uni",
+          "description": "专为 uni-app 打造的 UnoCSS 预设。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-09T13:34:29Z",
+            "owner": "uni-helper",
+            "repo": "unocss-preset-uni",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uni-network",
+          "description": "为 uni-app 打造的基于 Promise 的 HTTP 客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-25T13:52:19Z",
+            "owner": "uni-helper",
+            "repo": "uni-network",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axios-adapter",
+          "description": "一个用于 uni-app 的 Axios 适配器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T01:15:40Z",
+            "owner": "uni-helper",
+            "repo": "axios-adapter",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uni-promises",
+          "description": "uni-app Promise 化 API。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-26T02:47:52Z",
+            "owner": "uni-helper",
+            "repo": "uni-promises",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uni-use-router",
+          "description": "uni-app 路由补充，与 vue-router 语法靠近。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-06T03:15:37Z",
+            "owner": "Ares-Chang",
+            "repo": "uni-use-router",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Lib 工具库"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uni-create-view",
+          "description": "在 VSCode 中快速创建 uni-app 页面！",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T22:36:51Z",
+            "owner": "uni-helper",
+            "repo": "uni-create-view",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uni-helper-vscode",
+          "description": "增强 uni-app 系列产品在 VSCode 内的体验。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-25T13:21:28Z",
+            "owner": "uni-helper",
+            "repo": "uni-helper-vscode",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uni-highlight-vscode",
+          "description": "对条件编译的代码注释部分提供了语法提示、高亮、折叠。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-20T09:43:25Z",
+            "owner": "uni-helper",
+            "repo": "uni-highlight-vscode",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uni-app-schemas-vscode",
+          "description": "校验 uni-app 中 、 和 格式。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-25T13:23:05Z",
+            "owner": "uni-helper",
+            "repo": "uni-app-schemas-vscode",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uni-app-snippets-vscode",
+          "description": "uni-app 基本能力代码片段。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-25T13:23:33Z",
+            "owner": "uni-helper",
+            "repo": "uni-app-snippets-vscode",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uni-ui-snippets-vscode",
+          "description": "uni-ui 基本能力代码片段。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-26T07:27:48Z",
+            "owner": "uni-helper",
+            "repo": "uni-ui-snippets-vscode",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uni-cloud-snippets-vscode",
+          "description": "uni-cloud 基本能力代码片段。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-25T13:24:09Z",
+            "owner": "uni-helper",
+            "repo": "uni-cloud-snippets-vscode",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "编辑器 / IDE 插件"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:31:40.926Z",
+    "original_repository": "uni-helper/awesome-uni-app",
+    "original_repository_sha": "4aec563456f9e052f1980e93b639a82a82a0a4bd",
+    "enhanced_repository": "enhansome/enhansome-uni-app",
+    "enhanced_repository_description": null,
+    "title": "Awesome uni app with stars"
+  }
+}
