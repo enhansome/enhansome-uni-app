@@ -19,7 +19,7 @@
             "last_commit": "2026-08-10T03:10:34Z",
             "owner": "uni-helper",
             "repo": "create-uni",
-            "stars": 303
+            "stars": 304
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-31T13:52:05Z",
+            "last_commit": "2026-08-14T10:32:11Z",
             "owner": "uni-helper",
             "repo": "unh",
             "stars": 12
@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T04:53:05Z",
+            "last_commit": "2026-08-15T04:12:28Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
             "stars": 1843
@@ -168,7 +168,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T22:36:51Z",
+            "last_commit": "2026-08-14T16:49:43Z",
             "owner": "uni-helper",
             "repo": "uni-create-view",
             "stars": 20
@@ -263,7 +263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:21:03.294Z",
+    "last_updated": "2026-08-15T04:15:26.049Z",
     "original_repository": "uni-helper/awesome-uni-app",
     "original_repository_sha": "4aec563456f9e052f1980e93b639a82a82a0a4bd",
     "enhanced_repository": "enhansome/enhansome-uni-app",
