@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T03:10:34Z",
+            "last_commit": "2026-08-17T02:18:48Z",
             "owner": "uni-helper",
             "repo": "create-uni",
             "stars": 304
@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T02:32:52Z",
+            "last_commit": "2026-08-16T08:41:07Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
             "stars": 1843
@@ -263,7 +263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:21:42.228Z",
+    "last_updated": "2026-08-17T04:26:50.179Z",
     "original_repository": "uni-helper/awesome-uni-app",
     "original_repository_sha": "4aec563456f9e052f1980e93b639a82a82a0a4bd",
     "enhanced_repository": "enhansome/enhansome-uni-app",
