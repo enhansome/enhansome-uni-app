@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T12:31:45Z",
+            "last_commit": "2026-08-19T03:57:38Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
             "stars": 1844
@@ -263,7 +263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:20:54.212Z",
+    "last_updated": "2026-08-19T04:22:24.061Z",
     "original_repository": "uni-helper/awesome-uni-app",
     "original_repository_sha": "4aec563456f9e052f1980e93b639a82a82a0a4bd",
     "enhanced_repository": "enhansome/enhansome-uni-app",
