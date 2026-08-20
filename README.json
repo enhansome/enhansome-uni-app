@@ -51,7 +51,7 @@
             "last_commit": "2026-03-04T05:24:58Z",
             "owner": "uni-helper",
             "repo": "vitesse-uni-app",
-            "stars": 572
+            "stars": 573
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-19T02:01:43Z",
             "owner": "feige996",
             "repo": "unibest",
-            "stars": 2198
+            "stars": 2201
           }
         },
         {
@@ -129,7 +129,7 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:26:47Z",
+            "last_commit": "2026-08-20T04:00:39Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
             "stars": 1846
@@ -255,7 +255,7 @@
             "archived": false,
             "id": 512084590,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T08:03:00Z",
+            "last_commit": "2026-08-19T18:24:27Z",
             "owner": "ijry",
             "repo": "uview-plus",
             "stars": 713
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-11T09:43:54Z",
             "owner": "anyup",
             "repo": "uView-Pro",
-            "stars": 544
+            "stars": 545
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-15T10:52:42Z",
             "owner": "MrGao-hy",
             "repo": "hy-design-uni",
-            "stars": 446
+            "stars": 447
           }
         },
         {
@@ -336,7 +336,7 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:26:47Z",
+            "last_commit": "2026-08-20T04:00:39Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
             "stars": 1846
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:57:26.696Z",
+    "last_updated": "2026-08-20T04:22:12.670Z",
     "original_repository": "uni-helper/awesome-uni-app",
     "original_repository_id": 577242541,
     "original_repository_sha": "4aec563456f9e052f1980e93b639a82a82a0a4bd",
