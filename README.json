@@ -51,7 +51,7 @@
             "last_commit": "2026-03-04T05:24:58Z",
             "owner": "uni-helper",
             "repo": "vitesse-uni-app",
-            "stars": 573
+            "stars": 574
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-19T02:01:43Z",
             "owner": "feige996",
             "repo": "unibest",
-            "stars": 2201
+            "stars": 2204
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T04:00:39Z",
+            "last_commit": "2026-08-21T04:09:11Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
-            "stars": 1846
+            "stars": 1849
           }
         },
         {
@@ -270,10 +270,10 @@
             "archived": false,
             "id": 1031726568,
             "language": "Vue",
-            "last_commit": "2026-08-11T09:43:54Z",
+            "last_commit": "2026-08-20T05:58:00Z",
             "owner": "anyup",
             "repo": "uView-Pro",
-            "stars": 545
+            "stars": 546
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-15T10:52:42Z",
             "owner": "MrGao-hy",
             "repo": "hy-design-uni",
-            "stars": 447
+            "stars": 446
           }
         },
         {
@@ -336,10 +336,10 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T04:00:39Z",
+            "last_commit": "2026-08-21T04:09:11Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
-            "stars": 1846
+            "stars": 1849
           }
         },
         {
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:22:12.670Z",
+    "last_updated": "2026-08-21T04:24:28.619Z",
     "original_repository": "uni-helper/awesome-uni-app",
     "original_repository_id": 577242541,
     "original_repository_sha": "4aec563456f9e052f1980e93b639a82a82a0a4bd",
