@@ -81,7 +81,7 @@
             "last_commit": "2026-08-19T02:01:43Z",
             "owner": "feige996",
             "repo": "unibest",
-            "stars": 2204
+            "stars": 2205
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-04T05:03:53Z",
             "owner": "wot-ui",
             "repo": "wot-starter",
-            "stars": 375
+            "stars": 377
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T04:09:11Z",
+            "last_commit": "2026-08-22T03:06:07Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
-            "stars": 1849
+            "stars": 1848
           }
         },
         {
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 524644676,
             "language": "CSS",
-            "last_commit": "2026-07-09T01:21:37Z",
+            "last_commit": "2026-08-21T14:09:03Z",
             "owner": "unocss-applet",
             "repo": "unocss-applet",
             "stars": 255
@@ -255,10 +255,10 @@
             "archived": false,
             "id": 512084590,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T18:24:27Z",
+            "last_commit": "2026-08-21T14:39:34Z",
             "owner": "ijry",
             "repo": "uview-plus",
-            "stars": 713
+            "stars": 714
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-20T05:58:00Z",
             "owner": "anyup",
             "repo": "uView-Pro",
-            "stars": 546
+            "stars": 547
           }
         },
         {
@@ -336,10 +336,10 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T04:09:11Z",
+            "last_commit": "2026-08-22T03:06:07Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
-            "stars": 1849
+            "stars": 1848
           }
         },
         {
@@ -366,7 +366,7 @@
             "archived": false,
             "id": 567672656,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:03:33Z",
+            "last_commit": "2026-08-21T18:50:28Z",
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-layouts",
             "stars": 67
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:24:28.619Z",
+    "last_updated": "2026-08-22T04:17:34.370Z",
     "original_repository": "uni-helper/awesome-uni-app",
     "original_repository_id": 577242541,
     "original_repository_sha": "4aec563456f9e052f1980e93b639a82a82a0a4bd",
