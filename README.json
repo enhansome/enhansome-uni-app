@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "GitHub 仓库",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140687430,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T13:39:20Z",
+            "owner": "dcloudio",
+            "repo": "uni-app",
+            "stars": 41599
+          }
+        }
+      ],
+      "title": "官方资源"
+    },
+    {
+      "description": "在下面的内容中，我们使用徽章来指示部分组件、库、插件的版本、平台、语言兼容性，其中徽章的颜色和开头用来表示支持程度。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "官方 Issues",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140687430,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T13:39:20Z",
+            "owner": "dcloudio",
+            "repo": "uni-app",
+            "stars": 41599
+          }
+        }
+      ],
+      "title": "社区"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "create-uni",
           "description": "🛠️ 快速创建 uni-app 项目",
           "children": [],
@@ -39,6 +81,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "uni-preset-vue",
+          "description": "uni-app 官方模板。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158047831,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T07:26:55Z",
+            "owner": "dcloudio",
+            "repo": "uni-preset-vue",
+            "stars": 372
+          }
+        },
         {
           "node_type": "item",
           "title": "vitesse-uni-app",
@@ -81,7 +138,7 @@
             "last_commit": "2026-08-19T02:01:43Z",
             "owner": "feige996",
             "repo": "unibest",
-            "stars": 2207
+            "stars": 2206
           }
         },
         {
@@ -113,6 +170,21 @@
             "repo": "uni-vitesse",
             "stars": 341
           }
+        },
+        {
+          "node_type": "item",
+          "title": "uni-hbx-vite",
+          "description": "uni-app 项目快速启动，同时支持 HBX 运行和 CLI 运行",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1077292371,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T01:41:53Z",
+            "owner": "cnguu",
+            "repo": "uni-hbx-vite",
+            "stars": 9
+          }
         }
       ],
       "title": "模板"
@@ -129,10 +201,10 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:05:44Z",
+            "last_commit": "2026-08-24T10:46:50Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
-            "stars": 1848
+            "stars": 1849
           }
         },
         {
@@ -248,6 +320,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "uni-ui",
+          "description": "基于 uni-app 的、全端兼容的、高性能 UI 框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160188343,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T02:15:10Z",
+            "owner": "dcloudio",
+            "repo": "uni-ui",
+            "stars": 2093
+          }
+        },
+        {
+          "node_type": "item",
           "title": "uview-plus",
           "description": "fork 自 uview 2.0，全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。",
           "children": [],
@@ -278,6 +365,36 @@
         },
         {
           "node_type": "item",
+          "title": "nutui-uniapp",
+          "description": "京东风格的轻量级移动端组件库，基于 uniapp 与 Vue3，支持移动端 H5 和 小程序开发",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 651294390,
+            "language": "Vue",
+            "last_commit": "2026-06-30T05:47:59Z",
+            "owner": "nutui-uniapp",
+            "repo": "nutui-uniapp",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wot-ui",
+          "description": "一个轻量、美观、AI友好的 uni-app 组件库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1134834651,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T16:01:09Z",
+            "owner": "wot-ui",
+            "repo": "wot-ui",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
           "title": "z-paging",
           "description": "一个 uni-app 的分页组件，全平台兼容，支持自定义下拉刷新、上拉加载更多，支持虚拟列表，支持自动管理空数据图、点击返回顶部，支持聊天分页、本地分页，支持展示最后更新时间，支持国际化等等",
           "children": [],
@@ -300,7 +417,7 @@
             "archived": false,
             "id": 1038466784,
             "language": "Vue",
-            "last_commit": "2026-08-15T10:52:42Z",
+            "last_commit": "2026-08-24T06:55:36Z",
             "owner": "MrGao-hy",
             "repo": "hy-design-uni",
             "stars": 447
@@ -329,6 +446,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "vite-plugin-uni-pages",
+          "description": "在 uni-app 上使用基于文件的路由系统。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 565729907,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T08:20:58Z",
+            "owner": "uni-helper",
+            "repo": "vite-plugin-uni-pages",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
           "title": "weapp-tailwindcss",
           "description": "把 tailwindcss 原子化思想带入小程序开发吧 !",
           "children": [],
@@ -336,10 +468,10 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:05:44Z",
+            "last_commit": "2026-08-24T10:46:50Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
-            "stars": 1848
+            "stars": 1849
           }
         },
         {
@@ -560,10 +692,52 @@
         }
       ],
       "title": "编辑器 / IDE 插件"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uni-typed",
+          "description": "uni-app、uni-cloud、uni-ui 组件类型支持。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 834025230,
+            "language": "TypeScript",
+            "last_commit": "2026-07-18T23:05:52Z",
+            "owner": "uni-helper",
+            "repo": "uni-typed",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "类型"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "skills",
+          "description": "uni-app skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1145772211,
+            "language": "TypeScript",
+            "last_commit": "2026-03-01T07:44:54Z",
+            "owner": "uni-helper",
+            "repo": "skills",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "Agent Skills"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:31:04.067Z",
+    "last_updated": "2026-08-24T14:27:18.886Z",
     "original_repository": "uni-helper/awesome-uni-app",
     "original_repository_id": 577242541,
     "original_repository_sha": "4aec563456f9e052f1980e93b639a82a82a0a4bd",
