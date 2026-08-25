@@ -130,7 +130,7 @@
 
 <!-- - ![vue3] [vin-ui](https://github.com/vingogo/vin-ui) ![stars](https://img.shields.io/github/stars/vingogo/vin-ui) - 京东（nutui）风格的移动端 Vue3 组件库 、支持多端小程序（uniapp 版本）。 -->
 
-* ![vue3] [wot-ui](https://github.com/wot-ui/wot-ui) ⭐ 318 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-22 ![stars](https://img.shields.io/github/stars/wot-ui/wot-uni) - 一个轻量、美观、AI友好的 uni-app 组件库。
+* ![vue3] [wot-ui](https://github.com/wot-ui/wot-ui) ⭐ 319 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-22 ![stars](https://img.shields.io/github/stars/wot-ui/wot-uni) - 一个轻量、美观、AI友好的 uni-app 组件库。
 
 <!-- - ![vue2] [tuniaoui-vue2](https://github.com/ahua666/tuniaoUI) ![stars](https://img.shields.io/github/stars/ahua666/tuniaoUI) - 基于 uni-app 进行开发的 UI 框架，提供丰富的组件进行快速开发。 -->
 
