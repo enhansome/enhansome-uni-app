@@ -12,7 +12,7 @@
             "archived": false,
             "id": 140687430,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T09:31:16Z",
+            "last_commit": "2026-08-27T13:59:16Z",
             "owner": "dcloudio",
             "repo": "uni-app",
             "stars": 41605
@@ -33,7 +33,7 @@
             "archived": false,
             "id": 140687430,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T09:31:16Z",
+            "last_commit": "2026-08-27T13:59:16Z",
             "owner": "dcloudio",
             "repo": "uni-app",
             "stars": 41605
@@ -201,10 +201,10 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:45:50Z",
+            "last_commit": "2026-08-27T13:14:30Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
-            "stars": 1851
+            "stars": 1852
           }
         },
         {
@@ -453,7 +453,7 @@
             "archived": false,
             "id": 565729907,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:30:06Z",
+            "last_commit": "2026-08-27T14:05:18Z",
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-pages",
             "stars": 205
@@ -468,10 +468,10 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:45:50Z",
+            "last_commit": "2026-08-27T13:14:30Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
-            "stars": 1851
+            "stars": 1852
           }
         },
         {
@@ -737,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:43.689Z",
+    "last_updated": "2026-08-27T14:48:07.563Z",
     "original_repository_info": {
       "archived": false,
       "id": 577242541,

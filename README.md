@@ -100,7 +100,7 @@
 
 ## Lib 工具库
 
-* [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) ⭐ 1,851 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-27 - 面向小程序生态的 Tailwind CSS 适配方案。
+* [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) ⭐ 1,852 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-27 - 面向小程序生态的 Tailwind CSS 适配方案。
 * [unocss-applet](https://github.com/unocss-applet/unocss-applet) ⭐ 255 | 🐛 2 | 🌐 CSS | 📅 2026-08-25 ![stars](https://img.shields.io/github/stars/unocss-applet/unocss-applet) - 在小程序中使用 UnoCSS，兼容不支持的语法。
 * ![vue3] [uni-use](https://github.com/uni-helper/uni-use) ⭐ 181 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-18 ![stars](https://img.shields.io/github/stars/uni-helper/uni-use) - uni-app 组合式工具集。
 * [unocss-preset-uni](https://github.com/uni-helper/unocss-preset-uni) ⭐ 128 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 ![stars](https://img.shields.io/github/stars/uni-helper/unocss-preset-uni) - 专为 uni-app 打造的 UnoCSS 预设。
@@ -146,7 +146,7 @@
 
 <!-- - ![vite] [vite-plugin-uni-tailwind](https://github.com/uni-helper/vite-plugin-uni-tailwind) ![stars](https://img.shields.io/github/stars/uni-helper/vite-plugin-uni-tailwind) - 支持在 uni-app 中使用 tailwindcss v3 语法。 -->
 
-* [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) ⭐ 1,851 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-27 ![stars](https://img.shields.io/github/stars/sonofmagic/weapp-tailwindcss) - 把 tailwindcss 原子化思想带入小程序开发吧 !
+* [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) ⭐ 1,852 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-27 ![stars](https://img.shields.io/github/stars/sonofmagic/weapp-tailwindcss) - 把 tailwindcss 原子化思想带入小程序开发吧 !
 * ![vite] ![vue3] [uni-ku-root](https://github.com/uni-ku/root) ⭐ 172 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-25 ![stars](https://img.shields.io/github/stars/uni-ku/root) - 一个模拟 App.vue 原有能力的根组件插件
 * ![vite] [vite-plugin-uni-layouts](https://github.com/uni-helper/vite-plugin-uni-layouts) ⭐ 67 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-26 ![stars](https://img.shields.io/github/stars/uni-helper/vite-plugin-uni-layouts) - 为 Vite 下的 uni-app 提供类 nuxt 的 layouts 系统。
 * ![vite] [vite-plugin-uni-components](https://github.com/uni-helper/vite-plugin-uni-components) ⭐ 44 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-16 ![stars](https://img.shields.io/github/stars/uni-helper/vite-plugin-uni-components) - 适用于 uni-app 的按需自动引入组件。
