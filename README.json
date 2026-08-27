@@ -12,10 +12,10 @@
             "archived": false,
             "id": 140687430,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T03:59:54Z",
+            "last_commit": "2026-08-27T09:31:16Z",
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41602
+            "stars": 41605
           }
         }
       ],
@@ -33,10 +33,10 @@
             "archived": false,
             "id": 140687430,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T03:59:54Z",
+            "last_commit": "2026-08-27T09:31:16Z",
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41602
+            "stars": 41605
           }
         }
       ],
@@ -135,10 +135,10 @@
             "archived": false,
             "id": 837515497,
             "language": "Vue",
-            "last_commit": "2026-08-25T03:25:14Z",
+            "last_commit": "2026-08-27T11:42:26Z",
             "owner": "feige996",
             "repo": "unibest",
-            "stars": 2208
+            "stars": 2211
           }
         },
         {
@@ -201,10 +201,10 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T04:15:04Z",
+            "last_commit": "2026-08-27T11:45:50Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
-            "stars": 1850
+            "stars": 1851
           }
         },
         {
@@ -327,7 +327,7 @@
             "archived": false,
             "id": 160188343,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T03:04:02Z",
+            "last_commit": "2026-08-27T03:40:48Z",
             "owner": "dcloudio",
             "repo": "uni-ui",
             "stars": 2093
@@ -342,10 +342,10 @@
             "archived": false,
             "id": 512084590,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T14:39:34Z",
+            "last_commit": "2026-08-27T03:39:40Z",
             "owner": "ijry",
             "repo": "uview-plus",
-            "stars": 713
+            "stars": 715
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-24T02:44:32Z",
             "owner": "anyup",
             "repo": "uView-Pro",
-            "stars": 548
+            "stars": 547
           }
         },
         {
@@ -387,10 +387,10 @@
             "archived": false,
             "id": 1134834651,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T03:53:20Z",
+            "last_commit": "2026-08-26T07:02:51Z",
             "owner": "wot-ui",
             "repo": "wot-ui",
-            "stars": 322
+            "stars": 324
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-08-04T04:40:25Z",
             "owner": "xiaohe0601",
             "repo": "uni-echarts",
-            "stars": 175
+            "stars": 176
           }
         }
       ],
@@ -453,7 +453,7 @@
             "archived": false,
             "id": 565729907,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T13:04:34Z",
+            "last_commit": "2026-08-27T11:30:06Z",
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-pages",
             "stars": 205
@@ -468,10 +468,10 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T04:15:04Z",
+            "last_commit": "2026-08-27T11:45:50Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
-            "stars": 1850
+            "stars": 1851
           }
         },
         {
@@ -498,7 +498,7 @@
             "archived": false,
             "id": 567672656,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T02:09:51Z",
+            "last_commit": "2026-08-26T19:52:25Z",
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-layouts",
             "stars": 67
@@ -516,7 +516,7 @@
             "last_commit": "2026-05-16T02:39:39Z",
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-components",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -594,7 +594,7 @@
             "archived": false,
             "id": 317479804,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T00:06:55Z",
+            "last_commit": "2026-08-26T20:16:58Z",
             "owner": "uni-helper",
             "repo": "uni-create-view",
             "stars": 20
@@ -729,7 +729,7 @@
             "last_commit": "2026-03-01T07:44:54Z",
             "owner": "uni-helper",
             "repo": "skills",
-            "stars": 97
+            "stars": 98
           }
         }
       ],
@@ -737,9 +737,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:25:34.726Z",
-    "original_repository": "uni-helper/awesome-uni-app",
-    "original_repository_id": 577242541,
+    "last_updated": "2026-08-27T12:08:43.689Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 577242541,
+      "language": null,
+      "last_commit": "2026-08-08T09:08:44Z",
+      "owner": "uni-helper",
+      "repo": "awesome-uni-app",
+      "stars": 363
+    },
     "original_repository_sha": "4aec563456f9e052f1980e93b639a82a82a0a4bd",
     "enhanced_repository": "enhansome/enhansome-uni-app",
     "enhanced_repository_description": null,
