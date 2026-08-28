@@ -12,11 +12,12 @@
             "archived": false,
             "id": 140687430,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T13:59:16Z",
+            "last_commit": "2026-08-28T09:26:15Z",
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41605
-          }
+            "stars": 41609
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         }
       ],
       "title": "官方资源"
@@ -33,11 +34,12 @@
             "archived": false,
             "id": 140687430,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T13:59:16Z",
+            "last_commit": "2026-08-28T09:26:15Z",
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41605
-          }
+            "stars": 41609
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         }
       ],
       "title": "社区"
@@ -58,7 +60,8 @@
             "owner": "uni-helper",
             "repo": "create-uni",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "uni-helper",
             "repo": "unh",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         }
       ],
       "title": "Cli"
@@ -94,7 +98,8 @@
             "owner": "dcloudio",
             "repo": "uni-preset-vue",
             "stars": 372
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -109,7 +114,8 @@
             "owner": "uni-helper",
             "repo": "vitesse-uni-app",
             "stars": 574
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -124,7 +130,8 @@
             "owner": "sunpm",
             "repo": "unisave",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -138,8 +145,9 @@
             "last_commit": "2026-08-27T11:42:26Z",
             "owner": "feige996",
             "repo": "unibest",
-            "stars": 2211
-          }
+            "stars": 2214
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -153,8 +161,9 @@
             "last_commit": "2026-08-04T05:03:53Z",
             "owner": "wot-ui",
             "repo": "wot-starter",
-            "stars": 380
-          }
+            "stars": 381
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -169,7 +178,8 @@
             "owner": "Ares-Chang",
             "repo": "uni-vitesse",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "cnguu",
             "repo": "uni-hbx-vite",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         }
       ],
       "title": "模板"
@@ -201,11 +212,12 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:14:30Z",
+            "last_commit": "2026-08-28T15:12:31Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
             "stars": 1852
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -220,7 +232,8 @@
             "owner": "unocss-applet",
             "repo": "unocss-applet",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -235,7 +248,8 @@
             "owner": "uni-helper",
             "repo": "uni-use",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -250,7 +264,8 @@
             "owner": "uni-helper",
             "repo": "unocss-preset-uni",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -265,7 +280,8 @@
             "owner": "uni-helper",
             "repo": "uni-network",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "uni-helper",
             "repo": "axios-adapter",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "uni-helper",
             "repo": "uni-promises",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "Ares-Chang",
             "repo": "uni-use-router",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         }
       ],
       "title": "Lib 工具库"
@@ -327,11 +346,12 @@
             "archived": false,
             "id": 160188343,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T03:40:48Z",
+            "last_commit": "2026-08-28T02:43:27Z",
             "owner": "dcloudio",
             "repo": "uni-ui",
-            "stars": 2093
-          }
+            "stars": 2092
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -345,8 +365,9 @@
             "last_commit": "2026-08-27T03:39:40Z",
             "owner": "ijry",
             "repo": "uview-plus",
-            "stars": 715
-          }
+            "stars": 714
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -360,8 +381,9 @@
             "last_commit": "2026-08-24T02:44:32Z",
             "owner": "anyup",
             "repo": "uView-Pro",
-            "stars": 547
-          }
+            "stars": 548
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -376,7 +398,8 @@
             "owner": "nutui-uniapp",
             "repo": "nutui-uniapp",
             "stars": 558
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -390,8 +413,9 @@
             "last_commit": "2026-08-26T07:02:51Z",
             "owner": "wot-ui",
             "repo": "wot-ui",
-            "stars": 324
-          }
+            "stars": 327
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -406,7 +430,8 @@
             "owner": "SmileZXLee",
             "repo": "uni-z-paging",
             "stars": 1466
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "MrGao-hy",
             "repo": "hy-design-uni",
             "stars": 449
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -436,7 +462,8 @@
             "owner": "xiaohe0601",
             "repo": "uni-echarts",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         }
       ],
       "title": "UI 组件库"
@@ -453,11 +480,12 @@
             "archived": false,
             "id": 565729907,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:05:18Z",
+            "last_commit": "2026-08-28T01:31:40Z",
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-pages",
-            "stars": 205
-          }
+            "stars": 206
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -468,11 +496,12 @@
             "archived": false,
             "id": 448897619,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:14:30Z",
+            "last_commit": "2026-08-28T15:12:31Z",
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
             "stars": 1852
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -487,7 +516,8 @@
             "owner": "uni-ku",
             "repo": "root",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -502,7 +532,8 @@
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-layouts",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -517,7 +548,8 @@
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-components",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -532,7 +564,8 @@
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-manifest",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -547,7 +580,8 @@
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-platform",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -562,7 +596,8 @@
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-platform-modifier",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -577,7 +612,8 @@
             "owner": "cnguu",
             "repo": "vite-plugin-uni-cdn",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         }
       ],
       "title": "打包器插件"
@@ -594,11 +630,12 @@
             "archived": false,
             "id": 317479804,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T20:16:58Z",
+            "last_commit": "2026-08-27T21:04:20Z",
             "owner": "uni-helper",
             "repo": "uni-create-view",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -613,7 +650,8 @@
             "owner": "uni-helper",
             "repo": "uni-helper-vscode",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -628,7 +666,8 @@
             "owner": "uni-helper",
             "repo": "uni-highlight-vscode",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -643,7 +682,8 @@
             "owner": "uni-helper",
             "repo": "uni-app-schemas-vscode",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -658,7 +698,8 @@
             "owner": "uni-helper",
             "repo": "uni-app-snippets-vscode",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -673,7 +714,8 @@
             "owner": "uni-helper",
             "repo": "uni-ui-snippets-vscode",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         },
         {
           "node_type": "item",
@@ -688,7 +730,8 @@
             "owner": "uni-helper",
             "repo": "uni-cloud-snippets-vscode",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         }
       ],
       "title": "编辑器 / IDE 插件"
@@ -709,7 +752,8 @@
             "owner": "uni-helper",
             "repo": "uni-typed",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         }
       ],
       "title": "类型"
@@ -730,14 +774,15 @@
             "owner": "uni-helper",
             "repo": "skills",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T15:41:39.904Z"
         }
       ],
       "title": "Agent Skills"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:48:07.563Z",
+    "last_updated": "2026-08-28T15:41:39.904Z",
     "original_repository_info": {
       "archived": false,
       "id": 577242541,
