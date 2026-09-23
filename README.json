@@ -15,7 +15,7 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T08:47:16Z",
+            "last_commit": "2026-09-23T08:45:00Z",
             "open_issues": 706,
             "owner": "dcloudio",
             "repo": "uni-app",
@@ -55,7 +55,7 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T08:47:16Z",
+            "last_commit": "2026-09-23T08:45:00Z",
             "open_issues": 706,
             "owner": "dcloudio",
             "repo": "uni-app",
@@ -219,7 +219,7 @@
             "open_issues": 94,
             "owner": "feige996",
             "repo": "unibest",
-            "stars": 2264,
+            "stars": 2266,
             "topics": [
               "template",
               "uni-app",
@@ -322,7 +322,7 @@
             "id": 448897619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T04:33:01Z",
+            "last_commit": "2026-09-23T08:33:24Z",
             "open_issues": 16,
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
@@ -590,7 +590,7 @@
             "open_issues": 21,
             "owner": "anyup",
             "repo": "uView-Pro",
-            "stars": 552,
+            "stars": 553,
             "topics": [
               "components",
               "composition-api",
@@ -646,11 +646,11 @@
             "id": 1134834651,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T12:50:34Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-23T03:27:44Z",
+            "open_issues": 48,
             "owner": "wot-ui",
             "repo": "wot-ui",
-            "stars": 378,
+            "stars": 380,
             "topics": [
               "uni-app"
             ]
@@ -777,7 +777,7 @@
             "id": 448897619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T04:33:01Z",
+            "last_commit": "2026-09-23T08:33:24Z",
             "open_issues": 16,
             "owner": "sonofmagic",
             "repo": "weapp-tailwindcss",
@@ -1038,7 +1038,7 @@
             "id": 566127062,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-22T02:43:28Z",
+            "last_commit": "2026-09-23T07:58:10Z",
             "open_issues": 1,
             "owner": "uni-helper",
             "repo": "uni-app-schemas-vscode",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T08:49:27.150Z",
+    "last_updated": "2026-09-23T08:50:54.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 uni-app 优秀学习资源汇总",
