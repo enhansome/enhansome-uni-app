@@ -25,7 +25,7 @@
 
 ## 官方资源
 
-* [GitHub 仓库](https://github.com/dcloudio/uni-app) ⭐ 41,618 | 🐛 706 | 🌐 JavaScript | 📅 2026-09-24
+* [GitHub 仓库](https://github.com/dcloudio/uni-app) ⭐ 41,617 | 🐛 706 | 🌐 JavaScript | 📅 2026-09-25
 * [官方文档](https://uniapp.dcloud.net.cn/)
 * [更新日志](https://uniapp.dcloud.net.cn/release.html)
 * [迁移指南](https://uniapp.dcloud.net.cn/translate.html)
@@ -33,7 +33,7 @@
 
 ## 社区
 
-* [官方 Issues](https://github.com/dcloudio/uni-app/issues) ⭐ 41,618 | 🐛 706 | 🌐 JavaScript | 📅 2026-09-24
+* [官方 Issues](https://github.com/dcloudio/uni-app/issues) ⭐ 41,617 | 🐛 706 | 🌐 JavaScript | 📅 2026-09-25
 * [官方论坛](https://ask.dcloud.net.cn/explore/category-12)
 
 ***
@@ -86,8 +86,8 @@
 
 <!-- - ![vue3] [uniapp-template](https://github.com/yang1206/uniapp-template) ![stars](https://img.shields.io/github/stars/yang1206/uniapp-template) - 基于 Vite、UnoCSS 和 TypeScript 的 uni-app 起始模版。 -->
 
-* ![vue3] [unibest](https://github.com/feige996/unibest) ⭐ 2,266 | 🐛 94 | 🌐 Vue | 📅 2026-09-15 ![stars](https://img.shields.io/github/stars/feige996/unibest) - uni-app 开发框架，内置大量基础功能，提供大量辅助功能。
-* ![vue3] [wot-starter](https://github.com/wot-ui/wot-starter) ⭐ 387 | 🐛 26 | 🌐 Vue | 📅 2026-08-29 ![stars](https://img.shields.io/github/stars/wot-ui/wot-starter) - 飞一般开发体验的 uni-app 模板，基于 vitesse-uni-app 和 wot-ui 构建。
+* ![vue3] [unibest](https://github.com/feige996/unibest) ⭐ 2,268 | 🐛 94 | 🌐 Vue | 📅 2026-09-15 ![stars](https://img.shields.io/github/stars/feige996/unibest) - uni-app 开发框架，内置大量基础功能，提供大量辅助功能。
+* ![vue3] [wot-starter](https://github.com/wot-ui/wot-starter) ⭐ 388 | 🐛 26 | 🌐 Vue | 📅 2026-08-29 ![stars](https://img.shields.io/github/stars/wot-ui/wot-starter) - 飞一般开发体验的 uni-app 模板，基于 vitesse-uni-app 和 wot-ui 构建。
 * ![vue3] [uni-vitesse](https://github.com/Ares-Chang/uni-vitesse) ⭐ 341 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-01 ![stars](https://img.shields.io/github/stars/Ares-Chang/uni-vitesse) - uni-app 版的 vitesse-lite
 
 <!-- - ![vue3] [uni-preset-vue3-vite](https://github.com/gitboyzcf/uni-preset-vue3-vite) ![stars](https://img.shields.io/github/stars/gitboyzcf/uni-preset-vue3-vite) - 基于 Vue3、Pinia、Vite、UnoCSS、nutui-uniapp，简单快速使用 uni-app 开发小程序和 H5 -->
@@ -96,12 +96,12 @@
 
 ## 演示
 
-* [hello-uniapp](https://github.com/dcloudio/hello-uniapp) ⭐ 3,046 | 🐛 14 | 🌐 Vue | 📅 2026-05-29 ![stars](https://img.shields.io/github/stars/dcloudio/hello-uniapp) - uni-app 框架演示示例
+* [hello-uniapp](https://github.com/dcloudio/hello-uniapp) ⭐ 3,047 | 🐛 14 | 🌐 Vue | 📅 2026-05-29 ![stars](https://img.shields.io/github/stars/dcloudio/hello-uniapp) - uni-app 框架演示示例
 
 ## Lib 工具库
 
-* [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) ⭐ 1,863 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-25 - 面向小程序生态的 Tailwind CSS 适配方案。
-* [unocss-applet](https://github.com/unocss-applet/unocss-applet) ⭐ 256 | 🐛 2 | 🌐 CSS | 📅 2026-09-10 ![stars](https://img.shields.io/github/stars/unocss-applet/unocss-applet) - 在小程序中使用 UnoCSS，兼容不支持的语法。
+* [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) ⭐ 1,864 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-26 - 面向小程序生态的 Tailwind CSS 适配方案。
+* [unocss-applet](https://github.com/unocss-applet/unocss-applet) ⭐ 255 | 🐛 2 | 🌐 CSS | 📅 2026-09-10 ![stars](https://img.shields.io/github/stars/unocss-applet/unocss-applet) - 在小程序中使用 UnoCSS，兼容不支持的语法。
 * ![vue3] [uni-use](https://github.com/uni-helper/uni-use) ⭐ 181 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-18 ![stars](https://img.shields.io/github/stars/uni-helper/uni-use) - uni-app 组合式工具集。
 * [unocss-preset-uni](https://github.com/uni-helper/unocss-preset-uni) ⭐ 128 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10 ![stars](https://img.shields.io/github/stars/uni-helper/unocss-preset-uni) - 专为 uni-app 打造的 UnoCSS 预设。
 * [uni-network](https://github.com/uni-helper/uni-network) ⭐ 127 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-10 ![stars](https://img.shields.io/github/stars/uni-helper/uni-network) - 为 uni-app 打造的基于 Promise 的 HTTP 客户端。
@@ -130,14 +130,14 @@
 
 <!-- - ![vue3] [vin-ui](https://github.com/vingogo/vin-ui) ![stars](https://img.shields.io/github/stars/vingogo/vin-ui) - 京东（nutui）风格的移动端 Vue3 组件库 、支持多端小程序（uniapp 版本）。 -->
 
-* ![vue3] [wot-ui](https://github.com/wot-ui/wot-ui) ⭐ 381 | 🐛 56 | 🌐 TypeScript | 📅 2026-09-25 ![stars](https://img.shields.io/github/stars/wot-ui/wot-uni) - 一个轻量、美观、AI友好的 uni-app 组件库。
+* ![vue3] [wot-ui](https://github.com/wot-ui/wot-ui) ⭐ 382 | 🐛 56 | 🌐 TypeScript | 📅 2026-09-25 ![stars](https://img.shields.io/github/stars/wot-ui/wot-uni) - 一个轻量、美观、AI友好的 uni-app 组件库。
 
 <!-- - ![vue2] [tuniaoui-vue2](https://github.com/ahua666/tuniaoUI) ![stars](https://img.shields.io/github/stars/ahua666/tuniaoUI) - 基于 uni-app 进行开发的 UI 框架，提供丰富的组件进行快速开发。 -->
 
 <!-- - ![vue3] [tuniaoui-vue3](https://github.com/tuniaoTech/tuniaoui-rc-vue3-uniapp) ![stars](https://img.shields.io/github/stars/tuniaoTech/tuniaoui-rc-vue3-uniapp) - 酷炫简洁 UI，使用 TypeScript 进行开发，提供了丰富的组件进行快速开发。 -->
 
 * [z-paging](https://github.com/SmileZXLee/uni-z-paging) ⭐ 1,474 | 🐛 72 | 🌐 JavaScript | 📅 2026-07-10 ![stars](https://img.shields.io/github/stars/SmileZXLee/uni-z-paging) - 一个 uni-app 的分页组件，全平台兼容，支持自定义下拉刷新、上拉加载更多，支持虚拟列表，支持自动管理空数据图、点击返回顶部，支持聊天分页、本地分页，支持展示最后更新时间，支持国际化等等
-* ![vue3] [hy-app](https://github.com/MrGao-hy/hy-design-uni) ⭐ 459 | 🐛 1 | 🌐 Vue | 📅 2026-09-21 ![stars](https://img.shields.io/github/stars/MrGao-hy/hy-design-uni) - 📱一款使用 Vue3 + Ts 构建、面向 uni‑app 的跨端组件库。现已封装八十余款高质量业务组件，完整兼容小程序、H5、App‑plus 等多端环境；支持灵活的主题定制、样式变量覆盖，内置完善的国际化方案
+* ![vue3] [hy-app](https://github.com/MrGao-hy/hy-design-uni) ⭐ 461 | 🐛 1 | 🌐 Vue | 📅 2026-09-21 ![stars](https://img.shields.io/github/stars/MrGao-hy/hy-design-uni) - 📱一款使用 Vue3 + Ts 构建、面向 uni‑app 的跨端组件库。现已封装八十余款高质量业务组件，完整兼容小程序、H5、App‑plus 等多端环境；支持灵活的主题定制、样式变量覆盖，内置完善的国际化方案
 * ![vue3] [uni-echarts](https://github.com/xiaohe0601/uni-echarts) ⭐ 182 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-09 ![stars](https://img.shields.io/github/stars/xiaohe0601/uni-echarts) - 适用于 uni-app 的 Apache ECharts 组件。
 
 ## 打包器插件
@@ -146,7 +146,7 @@
 
 <!-- - ![vite] [vite-plugin-uni-tailwind](https://github.com/uni-helper/vite-plugin-uni-tailwind) ![stars](https://img.shields.io/github/stars/uni-helper/vite-plugin-uni-tailwind) - 支持在 uni-app 中使用 tailwindcss v3 语法。 -->
 
-* [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) ⭐ 1,863 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-25 ![stars](https://img.shields.io/github/stars/sonofmagic/weapp-tailwindcss) - 把 tailwindcss 原子化思想带入小程序开发吧 !
+* [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) ⭐ 1,864 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-26 ![stars](https://img.shields.io/github/stars/sonofmagic/weapp-tailwindcss) - 把 tailwindcss 原子化思想带入小程序开发吧 !
 * ![vite] ![vue3] [uni-ku-root](https://github.com/uni-ku/root) ⭐ 174 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-25 ![stars](https://img.shields.io/github/stars/uni-ku/root) - 一个模拟 App.vue 原有能力的根组件插件
 * ![vite] [vite-plugin-uni-layouts](https://github.com/uni-helper/vite-plugin-uni-layouts) ⭐ 68 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-24 ![stars](https://img.shields.io/github/stars/uni-helper/vite-plugin-uni-layouts) - 为 Vite 下的 uni-app 提供类 nuxt 的 layouts 系统。
 * ![vite] [vite-plugin-uni-components](https://github.com/uni-helper/vite-plugin-uni-components) ⭐ 44 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-11 ![stars](https://img.shields.io/github/stars/uni-helper/vite-plugin-uni-components) - 适用于 uni-app 的按需自动引入组件。
@@ -172,8 +172,8 @@
 
 ## Agent Skills
 
-* [skills](https://github.com/uni-helper/skills) ⭐ 105 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-01 - uni-app skills
+* [skills](https://github.com/uni-helper/skills) ⭐ 106 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-01 - uni-app skills
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
