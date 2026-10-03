@@ -322,7 +322,7 @@
             "id": 448897619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T04:47:42Z",
+            "last_commit": "2026-10-03T09:22:11Z",
             "open_issues": 23,
             "owner": "weapp-tailwindcss",
             "repo": "weapp-tailwindcss",
@@ -777,7 +777,7 @@
             "id": 448897619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T04:47:42Z",
+            "last_commit": "2026-10-03T09:22:11Z",
             "open_issues": 23,
             "owner": "weapp-tailwindcss",
             "repo": "weapp-tailwindcss",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:10:41.509Z",
+    "last_updated": "2026-10-03T09:26:53.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 uni-app 优秀学习资源汇总",
