@@ -15,7 +15,7 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T16:33:19Z",
+            "last_commit": "2026-10-17T15:57:24Z",
             "open_issues": 711,
             "owner": "dcloudio",
             "repo": "uni-app",
@@ -55,7 +55,7 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T16:33:19Z",
+            "last_commit": "2026-10-17T15:57:24Z",
             "open_issues": 711,
             "owner": "dcloudio",
             "repo": "uni-app",
@@ -219,7 +219,7 @@
             "open_issues": 95,
             "owner": "feige996",
             "repo": "unibest",
-            "stars": 2297,
+            "stars": 2299,
             "topics": [
               "template",
               "uni-app",
@@ -588,7 +588,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-08T05:25:01Z",
-            "open_issues": 12,
+            "open_issues": 14,
             "owner": "ijry",
             "repo": "uview-plus",
             "stars": 718,
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:03:44.181Z",
+    "last_updated": "2026-10-18T08:21:08.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 uni-app 优秀学习资源汇总",

@@ -25,7 +25,7 @@
 
 ## 官方资源
 
-* [GitHub 仓库](https://github.com/dcloudio/uni-app) ⭐ 41,616 | 🐛 711 | 🌐 JavaScript | 📅 2026-10-16
+* [GitHub 仓库](https://github.com/dcloudio/uni-app) ⭐ 41,616 | 🐛 711 | 🌐 JavaScript | 📅 2026-10-17
 * [官方文档](https://uniapp.dcloud.net.cn/)
 * [更新日志](https://uniapp.dcloud.net.cn/release.html)
 * [迁移指南](https://uniapp.dcloud.net.cn/translate.html)
@@ -33,7 +33,7 @@
 
 ## 社区
 
-* [官方 Issues](https://github.com/dcloudio/uni-app/issues) ⭐ 41,616 | 🐛 711 | 🌐 JavaScript | 📅 2026-10-16
+* [官方 Issues](https://github.com/dcloudio/uni-app/issues) ⭐ 41,616 | 🐛 711 | 🌐 JavaScript | 📅 2026-10-17
 * [官方论坛](https://ask.dcloud.net.cn/explore/category-12)
 
 ***
@@ -86,7 +86,7 @@
 
 <!-- - ![vue3] [uniapp-template](https://github.com/yang1206/uniapp-template) ![stars](https://img.shields.io/github/stars/yang1206/uniapp-template) - 基于 Vite、UnoCSS 和 TypeScript 的 uni-app 起始模版。 -->
 
-* ![vue3] [unibest](https://github.com/feige996/unibest) ⭐ 2,297 | 🐛 95 | 🌐 Vue | 📅 2026-09-15 ![stars](https://img.shields.io/github/stars/feige996/unibest) - uni-app 开发框架，内置大量基础功能，提供大量辅助功能。
+* ![vue3] [unibest](https://github.com/feige996/unibest) ⭐ 2,299 | 🐛 95 | 🌐 Vue | 📅 2026-09-15 ![stars](https://img.shields.io/github/stars/feige996/unibest) - uni-app 开发框架，内置大量基础功能，提供大量辅助功能。
 * ![vue3] [wot-starter](https://github.com/wot-ui/wot-starter) ⭐ 391 | 🐛 26 | 🌐 Vue | 📅 2026-08-29 ![stars](https://img.shields.io/github/stars/wot-ui/wot-starter) - 飞一般开发体验的 uni-app 模板，基于 vitesse-uni-app 和 wot-ui 构建。
 * ![vue3] [uni-vitesse](https://github.com/Ares-Chang/uni-vitesse) ⭐ 341 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-01 ![stars](https://img.shields.io/github/stars/Ares-Chang/uni-vitesse) - uni-app 版的 vitesse-lite
 
@@ -97,7 +97,7 @@
 
 ## 演示
 
-* [hello-uniapp](https://github.com/dcloudio/hello-uniapp) ⭐ 3,049 | 🐛 14 | 🌐 Vue | 📅 2026-05-29 ![stars](https://img.shields.io/github/stars/dcloudio/hello-uniapp) - uni-app 框架演示示例
+* [hello-uniapp](https://github.com/dcloudio/hello-uniapp) ⭐ 3,050 | 🐛 14 | 🌐 Vue | 📅 2026-05-29 ![stars](https://img.shields.io/github/stars/dcloudio/hello-uniapp) - uni-app 框架演示示例
 
 ## Lib 工具库
 
@@ -116,7 +116,7 @@
 
 <!-- - ![vue2] [uview 2.0](https://github.com/umicro/uView2.0) ![stars](https://img.shields.io/github/stars/umicro/uView2.0) - 全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。 -->
 
-* ![vue3] [uview-plus](https://github.com/ijry/uview-plus) ⭐ 718 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-08 ![stars](https://img.shields.io/github/stars/ijry/uview-plus) - fork 自 uview 2.0，全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
+* ![vue3] [uview-plus](https://github.com/ijry/uview-plus) ⭐ 718 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-08 ![stars](https://img.shields.io/github/stars/ijry/uview-plus) - fork 自 uview 2.0，全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
 * ![vue3] [uview-pro](https://github.com/anyup/uView-Pro) ⭐ 564 | 🐛 21 | 🌐 Vue | 📅 2026-10-10 ![stars](https://img.shields.io/github/stars/anyup/uView-Pro) - 为 Vue 3 + TypeScript 的 uni-app 生态量身打造的跨平台 UI 框架。
 
 <!-- - [thorui-uni](https://github.com/dingyong0214/ThorUI-uniapp) ![stars](https://img.shields.io/github/stars/dingyong0214/ThorUI-uniapp) - 轻量、简洁的移动端组件库。 -->
@@ -177,4 +177,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
