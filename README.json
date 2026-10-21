@@ -15,11 +15,11 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T08:40:39Z",
+            "last_commit": "2026-10-21T08:37:08Z",
             "open_issues": 713,
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41619,
+            "stars": 41621,
             "topics": [
               "android",
               "cross-platform",
@@ -55,11 +55,11 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T08:40:39Z",
+            "last_commit": "2026-10-21T08:37:08Z",
             "open_issues": 713,
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41619,
+            "stars": 41621,
             "topics": [
               "android",
               "cross-platform",
@@ -172,7 +172,7 @@
             "open_issues": 9,
             "owner": "uni-helper",
             "repo": "vitesse-uni-app",
-            "stars": 578,
+            "stars": 580,
             "topics": [
               "template",
               "uni-app",
@@ -350,11 +350,11 @@
             "id": 448897619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T08:29:04Z",
+            "last_commit": "2026-10-21T07:48:24Z",
             "open_issues": 17,
             "owner": "weapp-tailwindcss",
             "repo": "weapp-tailwindcss",
-            "stars": 1866,
+            "stars": 1865,
             "topics": [
               "mini",
               "mp",
@@ -558,7 +558,7 @@
             "id": 160188343,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T03:09:53Z",
+            "last_commit": "2026-10-20T09:00:27Z",
             "open_issues": 107,
             "owner": "dcloudio",
             "repo": "uni-ui",
@@ -674,11 +674,11 @@
             "id": 1134834651,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T08:00:06Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-20T11:13:38Z",
+            "open_issues": 49,
             "owner": "wot-ui",
             "repo": "wot-ui",
-            "stars": 403,
+            "stars": 405,
             "topics": [
               "uni-app"
             ]
@@ -730,7 +730,7 @@
             "open_issues": 0,
             "owner": "MrGao-hy",
             "repo": "hy-design-uni",
-            "stars": 407,
+            "stars": 408,
             "topics": [
               "hy-app",
               "hy-ui",
@@ -783,7 +783,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-19T08:55:52Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-pages",
             "stars": 208,
@@ -805,11 +805,11 @@
             "id": 448897619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T08:29:04Z",
+            "last_commit": "2026-10-21T07:48:24Z",
             "open_issues": 17,
             "owner": "weapp-tailwindcss",
             "repo": "weapp-tailwindcss",
-            "stars": 1866,
+            "stars": 1865,
             "topics": [
               "mini",
               "mp",
@@ -867,7 +867,7 @@
             "id": 567672656,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T05:04:12Z",
+            "last_commit": "2026-10-20T13:12:49Z",
             "open_issues": 22,
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-layouts",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T08:53:37.545Z",
+    "last_updated": "2026-10-21T08:54:09.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 uni-app 优秀学习资源汇总",
@@ -1209,7 +1209,7 @@
       "open_issues": 0,
       "owner": "uni-helper",
       "repo": "awesome-uni-app",
-      "stars": 366,
+      "stars": 365,
       "topics": [
         "awesome",
         "awesome-list"
