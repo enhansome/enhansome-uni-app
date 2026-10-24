@@ -15,11 +15,11 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T08:44:06Z",
+            "last_commit": "2026-10-23T14:08:56Z",
             "open_issues": 712,
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41623,
+            "stars": 41624,
             "topics": [
               "android",
               "cross-platform",
@@ -55,11 +55,11 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T08:44:06Z",
+            "last_commit": "2026-10-23T14:08:56Z",
             "open_issues": 712,
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41623,
+            "stars": 41624,
             "topics": [
               "android",
               "cross-platform",
@@ -350,7 +350,7 @@
             "id": 448897619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T08:13:04Z",
+            "last_commit": "2026-10-24T08:15:49Z",
             "open_issues": 17,
             "owner": "weapp-tailwindcss",
             "repo": "weapp-tailwindcss",
@@ -678,7 +678,7 @@
             "open_issues": 49,
             "owner": "wot-ui",
             "repo": "wot-ui",
-            "stars": 411,
+            "stars": 413,
             "topics": [
               "uni-app"
             ]
@@ -730,7 +730,7 @@
             "open_issues": 0,
             "owner": "MrGao-hy",
             "repo": "hy-design-uni",
-            "stars": 409,
+            "stars": 410,
             "topics": [
               "hy-app",
               "hy-ui",
@@ -782,8 +782,8 @@
             "id": 565729907,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T07:04:57Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-24T06:29:30Z",
+            "open_issues": 2,
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-pages",
             "stars": 208,
@@ -805,7 +805,7 @@
             "id": 448897619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T08:13:04Z",
+            "last_commit": "2026-10-24T08:15:49Z",
             "open_issues": 17,
             "owner": "weapp-tailwindcss",
             "repo": "weapp-tailwindcss",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T08:51:28.275Z",
+    "last_updated": "2026-10-24T08:25:19.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 uni-app 优秀学习资源汇总",
