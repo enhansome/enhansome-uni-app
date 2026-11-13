@@ -15,11 +15,11 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T11:53:29Z",
+            "last_commit": "2026-11-13T11:00:01Z",
             "open_issues": 717,
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41695,
+            "stars": 41692,
             "topics": [
               "android",
               "cross-platform",
@@ -55,11 +55,11 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T11:53:29Z",
+            "last_commit": "2026-11-13T11:00:01Z",
             "open_issues": 717,
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41695,
+            "stars": 41692,
             "topics": [
               "android",
               "cross-platform",
@@ -124,7 +124,7 @@
             "open_issues": 2,
             "owner": "uni-helper",
             "repo": "unh",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:39.904Z"
@@ -147,7 +147,7 @@
             "id": 158047831,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T03:34:19Z",
+            "last_commit": "2026-11-13T06:55:10Z",
             "open_issues": 36,
             "owner": "dcloudio",
             "repo": "uni-preset-vue",
@@ -559,10 +559,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-12T11:01:44Z",
-            "open_issues": 108,
+            "open_issues": 109,
             "owner": "dcloudio",
             "repo": "uni-ui",
-            "stars": 2090,
+            "stars": 2089,
             "topics": [
               "component",
               "ui-kit",
@@ -587,7 +587,7 @@
             "id": 512084590,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T01:36:16Z",
+            "last_commit": "2026-11-13T01:35:47Z",
             "open_issues": 10,
             "owner": "ijry",
             "repo": "uview-plus",
@@ -678,7 +678,7 @@
             "open_issues": 54,
             "owner": "wot-ui",
             "repo": "wot-ui",
-            "stars": 443,
+            "stars": 445,
             "topics": [
               "uni-app"
             ]
@@ -701,7 +701,7 @@
             "open_issues": 73,
             "owner": "SmileZXLee",
             "repo": "uni-z-paging",
-            "stars": 1482,
+            "stars": 1483,
             "topics": [
               "pagination",
               "paging",
@@ -730,7 +730,7 @@
             "open_issues": 0,
             "owner": "MrGao-hy",
             "repo": "hy-design-uni",
-            "stars": 396,
+            "stars": 398,
             "topics": [
               "hy-app",
               "hy-ui",
@@ -756,7 +756,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-06T05:30:07Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "xiaohe0601",
             "repo": "uni-echarts",
             "stars": 188,
@@ -871,7 +871,7 @@
             "open_issues": 0,
             "owner": "uni-helper",
             "repo": "vite-plugin-uni-layouts",
-            "stars": 70,
+            "stars": 71,
             "topics": [
               "layouts",
               "uni-app",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T11:54:26.901Z",
+    "last_updated": "2026-11-13T11:37:37.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 uni-app 优秀学习资源汇总",
