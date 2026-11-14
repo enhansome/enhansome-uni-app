@@ -15,11 +15,11 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T11:00:01Z",
-            "open_issues": 717,
+            "last_commit": "2026-11-13T21:01:10Z",
+            "open_issues": 719,
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41692,
+            "stars": 41694,
             "topics": [
               "android",
               "cross-platform",
@@ -55,11 +55,11 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T11:00:01Z",
-            "open_issues": 717,
+            "last_commit": "2026-11-13T21:01:10Z",
+            "open_issues": 719,
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41692,
+            "stars": 41694,
             "topics": [
               "android",
               "cross-platform",
@@ -219,7 +219,7 @@
             "open_issues": 89,
             "owner": "feige996",
             "repo": "unibest",
-            "stars": 2326,
+            "stars": 2327,
             "topics": [
               "template",
               "uni-app",
@@ -412,7 +412,7 @@
             "id": 566663261,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2025-12-18T13:54:19Z",
+            "last_commit": "2026-11-13T12:51:05Z",
             "open_issues": 0,
             "owner": "uni-helper",
             "repo": "uni-use",
@@ -587,7 +587,7 @@
             "id": 512084590,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T01:35:47Z",
+            "last_commit": "2026-11-14T01:29:32Z",
             "open_issues": 10,
             "owner": "ijry",
             "repo": "uview-plus",
@@ -678,7 +678,7 @@
             "open_issues": 54,
             "owner": "wot-ui",
             "repo": "wot-ui",
-            "stars": 445,
+            "stars": 446,
             "topics": [
               "uni-app"
             ]
@@ -730,7 +730,7 @@
             "open_issues": 0,
             "owner": "MrGao-hy",
             "repo": "hy-design-uni",
-            "stars": 398,
+            "stars": 399,
             "topics": [
               "hy-app",
               "hy-ui",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T11:37:37.740Z",
+    "last_updated": "2026-11-14T10:59:06.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 uni-app 优秀学习资源汇总",
