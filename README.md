@@ -25,7 +25,7 @@
 
 ## 官方资源
 
-* [GitHub 仓库](https://github.com/dcloudio/uni-app) ⭐ 41,699 | 🐛 720 | 🌐 JavaScript | 📅 2026-11-18
+* [GitHub 仓库](https://github.com/dcloudio/uni-app) ⭐ 41,699 | 🐛 721 | 🌐 JavaScript | 📅 2026-11-19
 * [官方文档](https://uniapp.dcloud.net.cn/)
 * [更新日志](https://uniapp.dcloud.net.cn/release.html)
 * [迁移指南](https://uniapp.dcloud.net.cn/translate.html)
@@ -33,7 +33,7 @@
 
 ## 社区
 
-* [官方 Issues](https://github.com/dcloudio/uni-app/issues) ⭐ 41,699 | 🐛 720 | 🌐 JavaScript | 📅 2026-11-18
+* [官方 Issues](https://github.com/dcloudio/uni-app/issues) ⭐ 41,699 | 🐛 721 | 🌐 JavaScript | 📅 2026-11-19
 * [官方论坛](https://ask.dcloud.net.cn/explore/category-12)
 
 ***
@@ -81,7 +81,7 @@
 
 <!-- - ![vue3] [starter-uni](https://github.com/zguolee/starter-uni) ![stars](https://img.shields.io/github/stars/zguolee/starter-uni) - 一个使用 Vue3 + Vite + UnoCSS + AnoUI 的 uni-app 开始模版。 -->
 
-* ![vue3] [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app) ⭐ 580 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-18 ![stars](https://img.shields.io/github/stars/uni-helper/vitesse-uni-app) - 由 uni-helper 支持的开始模板。
+* ![vue3] [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app) ⭐ 580 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-19 ![stars](https://img.shields.io/github/stars/uni-helper/vitesse-uni-app) - 由 uni-helper 支持的开始模板。
 * ![vue3] [unisave](https://github.com/sunpm/unisave) ⭐ 134 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-11 ![stars](https://img.shields.io/github/stars/sunpm/unisave) - 拥抱 web 开发，拯救 uniapp。适配所有(app、mp、web)平台！！！
 
 <!-- - ![vue3] [uniapp-template](https://github.com/yang1206/uniapp-template) ![stars](https://img.shields.io/github/stars/yang1206/uniapp-template) - 基于 Vite、UnoCSS 和 TypeScript 的 uni-app 起始模版。 -->
@@ -116,7 +116,7 @@
 
 <!-- - ![vue2] [uview 2.0](https://github.com/umicro/uView2.0) ![stars](https://img.shields.io/github/stars/umicro/uView2.0) - 全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。 -->
 
-* ![vue3] [uview-plus](https://github.com/ijry/uview-plus) ⭐ 722 | 🐛 10 | 🌐 JavaScript | 📅 2026-11-17 ![stars](https://img.shields.io/github/stars/ijry/uview-plus) - fork 自 uview 2.0，全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
+* ![vue3] [uview-plus](https://github.com/ijry/uview-plus) ⭐ 722 | 🐛 10 | 🌐 JavaScript | 📅 2026-11-19 ![stars](https://img.shields.io/github/stars/ijry/uview-plus) - fork 自 uview 2.0，全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
 * ![vue3] [uview-pro](https://github.com/anyup/uView-Pro) ⭐ 575 | 🐛 23 | 🌐 Vue | 📅 2026-11-05 ![stars](https://img.shields.io/github/stars/anyup/uView-Pro) - 为 Vue 3 + TypeScript 的 uni-app 生态量身打造的跨平台 UI 框架。
 
 <!-- - [thorui-uni](https://github.com/dingyong0214/ThorUI-uniapp) ![stars](https://img.shields.io/github/stars/dingyong0214/ThorUI-uniapp) - 轻量、简洁的移动端组件库。 -->
@@ -131,15 +131,15 @@
 
 <!-- - ![vue3] [vin-ui](https://github.com/vingogo/vin-ui) ![stars](https://img.shields.io/github/stars/vingogo/vin-ui) - 京东（nutui）风格的移动端 Vue3 组件库 、支持多端小程序（uniapp 版本）。 -->
 
-* ![vue3] [wot-ui](https://github.com/wot-ui/wot-ui) ⭐ 448 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-06 ![stars](https://img.shields.io/github/stars/wot-ui/wot-uni) - 一个轻量、美观、AI友好的 uni-app 组件库。
+* ![vue3] [wot-ui](https://github.com/wot-ui/wot-ui) ⭐ 449 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-06 ![stars](https://img.shields.io/github/stars/wot-ui/wot-uni) - 一个轻量、美观、AI友好的 uni-app 组件库。
 
 <!-- - ![vue2] [tuniaoui-vue2](https://github.com/ahua666/tuniaoUI) ![stars](https://img.shields.io/github/stars/ahua666/tuniaoUI) - 基于 uni-app 进行开发的 UI 框架，提供丰富的组件进行快速开发。 -->
 
 <!-- - ![vue3] [tuniaoui-vue3](https://github.com/tuniaoTech/tuniaoui-rc-vue3-uniapp) ![stars](https://img.shields.io/github/stars/tuniaoTech/tuniaoui-rc-vue3-uniapp) - 酷炫简洁 UI，使用 TypeScript 进行开发，提供了丰富的组件进行快速开发。 -->
 
-* [z-paging](https://github.com/SmileZXLee/uni-z-paging) ⭐ 1,482 | 🐛 73 | 🌐 JavaScript | 📅 2026-07-10 ![stars](https://img.shields.io/github/stars/SmileZXLee/uni-z-paging) - 一个 uni-app 的分页组件，全平台兼容，支持自定义下拉刷新、上拉加载更多，支持虚拟列表，支持自动管理空数据图、点击返回顶部，支持聊天分页、本地分页，支持展示最后更新时间，支持国际化等等
+* [z-paging](https://github.com/SmileZXLee/uni-z-paging) ⭐ 1,483 | 🐛 73 | 🌐 JavaScript | 📅 2026-07-10 ![stars](https://img.shields.io/github/stars/SmileZXLee/uni-z-paging) - 一个 uni-app 的分页组件，全平台兼容，支持自定义下拉刷新、上拉加载更多，支持虚拟列表，支持自动管理空数据图、点击返回顶部，支持聊天分页、本地分页，支持展示最后更新时间，支持国际化等等
 * ![vue3] [hy-app](https://github.com/MrGao-hy/hy-design-uni) ⭐ 400 | 🐛 0 | 🌐 Vue | 📅 2026-11-17 ![stars](https://img.shields.io/github/stars/MrGao-hy/hy-design-uni) - 📱一款使用 Vue3 + Ts 构建、面向 uni‑app 的跨端组件库。现已封装八十余款高质量业务组件，完整兼容小程序、H5、App‑plus 等多端环境；支持灵活的主题定制、样式变量覆盖，内置完善的国际化方案
-* ![vue3] [uni-echarts](https://github.com/xiaohe0601/uni-echarts) ⭐ 188 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-18 ![stars](https://img.shields.io/github/stars/xiaohe0601/uni-echarts) - 适用于 uni-app 的 Apache ECharts 组件。
+* ![vue3] [uni-echarts](https://github.com/xiaohe0601/uni-echarts) ⭐ 188 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-19 ![stars](https://img.shields.io/github/stars/xiaohe0601/uni-echarts) - 适用于 uni-app 的 Apache ECharts 组件。
 
 ## 打包器插件
 
@@ -177,4 +177,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

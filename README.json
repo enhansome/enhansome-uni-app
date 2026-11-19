@@ -15,8 +15,8 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T11:33:35Z",
-            "open_issues": 720,
+            "last_commit": "2026-11-19T12:06:23Z",
+            "open_issues": 721,
             "owner": "dcloudio",
             "repo": "uni-app",
             "stars": 41699,
@@ -55,8 +55,8 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T11:33:35Z",
-            "open_issues": 720,
+            "last_commit": "2026-11-19T12:06:23Z",
+            "open_issues": 721,
             "owner": "dcloudio",
             "repo": "uni-app",
             "stars": 41699,
@@ -168,7 +168,7 @@
             "id": 624301657,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T03:11:56Z",
+            "last_commit": "2026-11-19T06:22:20Z",
             "open_issues": 1,
             "owner": "uni-helper",
             "repo": "vitesse-uni-app",
@@ -587,7 +587,7 @@
             "id": 512084590,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T02:31:49Z",
+            "last_commit": "2026-11-19T01:23:46Z",
             "open_issues": 10,
             "owner": "ijry",
             "repo": "uview-plus",
@@ -678,7 +678,7 @@
             "open_issues": 54,
             "owner": "wot-ui",
             "repo": "wot-ui",
-            "stars": 448,
+            "stars": 449,
             "topics": [
               "uni-app"
             ]
@@ -701,7 +701,7 @@
             "open_issues": 73,
             "owner": "SmileZXLee",
             "repo": "uni-z-paging",
-            "stars": 1482,
+            "stars": 1483,
             "topics": [
               "pagination",
               "paging",
@@ -755,7 +755,7 @@
             "id": 918015120,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T02:40:33Z",
+            "last_commit": "2026-11-19T06:31:44Z",
             "open_issues": 2,
             "owner": "xiaohe0601",
             "repo": "uni-echarts",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T12:19:17.907Z",
+    "last_updated": "2026-11-19T12:13:34.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 uni-app 优秀学习资源汇总",
