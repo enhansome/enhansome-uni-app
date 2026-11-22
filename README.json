@@ -19,7 +19,7 @@
             "open_issues": 723,
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41695,
+            "stars": 41696,
             "topics": [
               "android",
               "cross-platform",
@@ -59,7 +59,7 @@
             "open_issues": 723,
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41695,
+            "stars": 41696,
             "topics": [
               "android",
               "cross-platform",
@@ -350,7 +350,7 @@
             "id": 448897619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T02:21:02Z",
+            "last_commit": "2026-11-22T10:31:43Z",
             "open_issues": 10,
             "owner": "weapp-tailwindcss",
             "repo": "weapp-tailwindcss",
@@ -587,11 +587,11 @@
             "id": 512084590,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T01:29:15Z",
+            "last_commit": "2026-11-22T01:10:35Z",
             "open_issues": 10,
             "owner": "ijry",
             "repo": "uview-plus",
-            "stars": 723,
+            "stars": 722,
             "topics": [
               "components",
               "ui",
@@ -678,7 +678,7 @@
             "open_issues": 55,
             "owner": "wot-ui",
             "repo": "wot-ui",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "uni-app"
             ]
@@ -726,7 +726,7 @@
             "id": 1038466784,
             "language": "Vue",
             "license": null,
-            "last_commit": "2026-11-21T09:32:24Z",
+            "last_commit": "2026-11-22T08:29:50Z",
             "open_issues": 0,
             "owner": "MrGao-hy",
             "repo": "hy-design-uni",
@@ -805,7 +805,7 @@
             "id": 448897619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T02:21:02Z",
+            "last_commit": "2026-11-22T10:31:43Z",
             "open_issues": 10,
             "owner": "weapp-tailwindcss",
             "repo": "weapp-tailwindcss",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T11:49:37.825Z",
+    "last_updated": "2026-11-22T12:01:12.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 uni-app 优秀学习资源汇总",
