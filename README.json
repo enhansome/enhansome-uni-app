@@ -15,11 +15,11 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T12:18:38Z",
+            "last_commit": "2026-11-27T11:29:37Z",
             "open_issues": 722,
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41700,
+            "stars": 41704,
             "topics": [
               "android",
               "cross-platform",
@@ -55,11 +55,11 @@
             "id": 140687430,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T12:18:38Z",
+            "last_commit": "2026-11-27T11:29:37Z",
             "open_issues": 722,
             "owner": "dcloudio",
             "repo": "uni-app",
-            "stars": 41700,
+            "stars": 41704,
             "topics": [
               "android",
               "cross-platform",
@@ -198,7 +198,7 @@
             "open_issues": 0,
             "owner": "sunpm",
             "repo": "unisave",
-            "stars": 134,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:39.904Z"
@@ -219,7 +219,7 @@
             "open_issues": 89,
             "owner": "feige996",
             "repo": "unibest",
-            "stars": 2333,
+            "stars": 2332,
             "topics": [
               "template",
               "uni-app",
@@ -350,11 +350,11 @@
             "id": 448897619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T12:41:42Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-27T11:22:07Z",
+            "open_issues": 11,
             "owner": "weapp-tailwindcss",
             "repo": "weapp-tailwindcss",
-            "stars": 1865,
+            "stars": 1864,
             "topics": [
               "mini",
               "mp",
@@ -558,7 +558,7 @@
             "id": 160188343,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T06:12:49Z",
+            "last_commit": "2026-11-26T16:15:04Z",
             "open_issues": 109,
             "owner": "dcloudio",
             "repo": "uni-ui",
@@ -587,7 +587,7 @@
             "id": 512084590,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T01:20:56Z",
+            "last_commit": "2026-11-27T10:32:36Z",
             "open_issues": 10,
             "owner": "ijry",
             "repo": "uview-plus",
@@ -618,7 +618,7 @@
             "open_issues": 22,
             "owner": "anyup",
             "repo": "uView-Pro",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "components",
               "composition-api",
@@ -675,10 +675,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-06T15:26:37Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "wot-ui",
             "repo": "wot-ui",
-            "stars": 456,
+            "stars": 460,
             "topics": [
               "uni-app"
             ]
@@ -730,7 +730,7 @@
             "open_issues": 0,
             "owner": "MrGao-hy",
             "repo": "hy-design-uni",
-            "stars": 400,
+            "stars": 399,
             "topics": [
               "hy-app",
               "hy-ui",
@@ -755,7 +755,7 @@
             "id": 918015120,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T06:31:44Z",
+            "last_commit": "2026-11-27T04:10:43Z",
             "open_issues": 2,
             "owner": "xiaohe0601",
             "repo": "uni-echarts",
@@ -805,11 +805,11 @@
             "id": 448897619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T12:41:42Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-27T11:22:07Z",
+            "open_issues": 11,
             "owner": "weapp-tailwindcss",
             "repo": "weapp-tailwindcss",
-            "stars": 1865,
+            "stars": 1864,
             "topics": [
               "mini",
               "mp",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T13:13:44.833Z",
+    "last_updated": "2026-11-27T13:11:30.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 uni-app 优秀学习资源汇总",
